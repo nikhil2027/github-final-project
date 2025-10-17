@@ -1,3 +1,7 @@
-[# github-final-project
-GitHub Final Project is a comprehensive project designed to demonstrate practical skills in software development, version control, and collaborative coding. The project typically involves planning, coding, testing, and deploying a fully functional application or tool, while emphasizing best practices in Git and GitHub workflows..
-](https://github.com/nikhil2027/github-final-project)
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
